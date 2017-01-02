@@ -1,0 +1,23 @@
+{
+  "name": "currency_time_series",
+  "version": "1.0.0",
+  "description": "Time series for currency",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amachwe/currency_time_series.git"
+  },
+  "keywords": [
+    "time",
+    "series"
+  ],
+  "author": "Azahar Machwe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amachwe/currency_time_series/issues"
+  },
+  "homepage": "https://github.com/amachwe/currency_time_series#readme"
+}
